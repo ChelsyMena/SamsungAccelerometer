@@ -1,5 +1,5 @@
 # run_anaysis.R
-# Chelsy M (GitHub: TwoPointNo)
+# Chelsy M (GitHub: ChelsyMena)
 
 setwd("./Data Science/Rcodes")
 
